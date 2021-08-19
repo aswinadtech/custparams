@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="26" passed="26">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34233" started-at="2021-08-19T15:52:01Z" finished-at="2021-08-19T15:52:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34233" started-at="2021-08-19T15:52:01Z" finished-at="2021-08-19T15:52:35Z">
+      <class name="twc.Regression.TestCases.regressionTestCases">
+        <test-method status="PASS" signature="C333213_Verify_cust_param_adid()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C333213_Verify_cust_param_adid" duration-ms="1881" started-at="2021-08-19T21:22:01Z" finished-at="2021-08-19T21:22:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C333213_Verify_cust_param_adid -->
+        <test-method status="PASS" signature="C333213_Verify_cust_param_aid()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C333213_Verify_cust_param_aid" duration-ms="1392" started-at="2021-08-19T21:22:03Z" finished-at="2021-08-19T21:22:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C333213_Verify_cust_param_aid -->
+        <test-method status="PASS" signature="C333213_Verify_cust_param_ltv()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C333213_Verify_cust_param_ltv" duration-ms="1581" started-at="2021-08-19T21:22:04Z" finished-at="2021-08-19T21:22:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C333213_Verify_cust_param_ltv -->
+        <test-method status="PASS" signature="C333200_Verify_cust_param_ord()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C333200_Verify_cust_param_ord" duration-ms="1595" started-at="2021-08-19T21:22:06Z" finished-at="2021-08-19T21:22:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C333200_Verify_cust_param_ord -->
+        <test-method status="PASS" signature="C333219_Verify_cust_param_ver()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C333219_Verify_cust_param_ver" duration-ms="1530" started-at="2021-08-19T21:22:07Z" finished-at="2021-08-19T21:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C333219_Verify_cust_param_ver -->
+        <test-method status="PASS" signature="C658716_Verify_cust_param_tf()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C658716_Verify_cust_param_tf" duration-ms="936" started-at="2021-08-19T21:22:09Z" finished-at="2021-08-19T21:22:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C658716_Verify_cust_param_tf -->
+        <test-method status="PASS" signature="C658711_Verify_cust_param_lang()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C658711_Verify_cust_param_lang" duration-ms="1517" started-at="2021-08-19T21:22:10Z" finished-at="2021-08-19T21:22:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C658711_Verify_cust_param_lang -->
+        <test-method status="PASS" signature="C658712_Verify_cust_param_plat()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C658712_Verify_cust_param_plat" duration-ms="1469" started-at="2021-08-19T21:22:11Z" finished-at="2021-08-19T21:22:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C658712_Verify_cust_param_plat -->
+        <test-method status="PASS" signature="C333218_Verify_cust_param_pos()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C333218_Verify_cust_param_pos" duration-ms="1469" started-at="2021-08-19T21:22:13Z" finished-at="2021-08-19T21:22:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C333218_Verify_cust_param_pos -->
+        <test-method status="PASS" signature="C333205_Verify_cust_param_tile()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C333205_Verify_cust_param_tile" duration-ms="1442" started-at="2021-08-19T21:22:14Z" finished-at="2021-08-19T21:22:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C333205_Verify_cust_param_tile -->
+        <test-method status="PASS" signature="C333216_Verify_cust_param_cnd()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C333216_Verify_cust_param_cnd" duration-ms="1780" started-at="2021-08-19T21:22:16Z" finished-at="2021-08-19T21:22:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C333216_Verify_cust_param_cnd -->
+        <test-method status="PASS" signature="C333212_Verify_cust_param_ct()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C333212_Verify_cust_param_ct" duration-ms="1584" started-at="2021-08-19T21:22:17Z" finished-at="2021-08-19T21:22:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C333212_Verify_cust_param_ct -->
+        <test-method status="PASS" signature="C333203_Verify_cust_param_dma()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C333203_Verify_cust_param_dma" duration-ms="1579" started-at="2021-08-19T21:22:19Z" finished-at="2021-08-19T21:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C333203_Verify_cust_param_dma -->
+        <test-method status="PASS" signature="C628160_Verify_Parameter_DyNght()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C628160_Verify_Parameter_DyNght" duration-ms="1441" started-at="2021-08-19T21:22:20Z" finished-at="2021-08-19T21:22:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C628160_Verify_Parameter_DyNght -->
+        <test-method status="PASS" signature="C333209_Verify_cust_param_cc()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C333209_Verify_cust_param_cc" duration-ms="1492" started-at="2021-08-19T21:22:22Z" finished-at="2021-08-19T21:22:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C333209_Verify_cust_param_cc -->
+        <test-method status="PASS" signature="C333208_Verify_cust_param_tmp()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C333208_Verify_cust_param_tmp" duration-ms="1744" started-at="2021-08-19T21:22:23Z" finished-at="2021-08-19T21:22:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C333208_Verify_cust_param_tmp -->
+        <test-method status="PASS" signature="C333217_Verify_cust_param_tmpr()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C333217_Verify_cust_param_tmpr" duration-ms="1709" started-at="2021-08-19T21:22:25Z" finished-at="2021-08-19T21:22:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C333217_Verify_cust_param_tmpr -->
+        <test-method status="PASS" signature="C333239_Verify_cust_param_tmpc()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C333239_Verify_cust_param_tmpc" duration-ms="1606" started-at="2021-08-19T21:22:27Z" finished-at="2021-08-19T21:22:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C333239_Verify_cust_param_tmpc -->
+        <test-method status="PASS" signature="C333202_Verify_cust_param_zip()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C333202_Verify_cust_param_zip" duration-ms="1480" started-at="2021-08-19T21:22:28Z" finished-at="2021-08-19T21:22:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C333202_Verify_cust_param_zip -->
+        <test-method status="PASS" signature="C333221_Verify_cust_param_wind()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C333221_Verify_cust_param_wind" duration-ms="1532" started-at="2021-08-19T21:22:30Z" finished-at="2021-08-19T21:22:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C333221_Verify_cust_param_wind -->
+        <test-method status="PASS" signature="C333224_Verify_cust_param_uv()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C333224_Verify_cust_param_uv" duration-ms="1576" started-at="2021-08-19T21:22:31Z" finished-at="2021-08-19T21:22:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C333224_Verify_cust_param_uv -->
+        <test-method status="PASS" signature="C333232_Verify_cust_param_fltmpc()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="C333232_Verify_cust_param_fltmpc" duration-ms="1567" started-at="2021-08-19T21:22:33Z" finished-at="2021-08-19T21:22:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C333232_Verify_cust_param_fltmpc -->
+        <test-method status="PASS" signature="Smoke_Test_Verifying_IM_Cust_Param_homescreen_marquee_adCall()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="Smoke_Test_Verifying_IM_Cust_Param_homescreen_marquee_adCall" duration-ms="69" started-at="2021-08-19T21:22:35Z" finished-at="2021-08-19T21:22:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verifying_IM_Cust_Param_homescreen_marquee_adCall -->
+        <test-method status="PASS" signature="Smoke_Test_Verifying_SlotName_Cust_Param_homescreen_marquee_adCall()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="Smoke_Test_Verifying_SlotName_Cust_Param_homescreen_marquee_adCall" duration-ms="70" started-at="2021-08-19T21:22:35Z" finished-at="2021-08-19T21:22:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verifying_SlotName_Cust_Param_homescreen_marquee_adCall -->
+        <test-method status="PASS" signature="Smoke_Test_Verifying_SlotName_Cust_Param_homescreen_hourly_adCall()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="Smoke_Test_Verifying_SlotName_Cust_Param_homescreen_hourly_adCall" duration-ms="67" started-at="2021-08-19T21:22:35Z" finished-at="2021-08-19T21:22:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verifying_SlotName_Cust_Param_homescreen_hourly_adCall -->
+        <test-method status="PASS" signature="Smoke_Test_Verifying_SlotName_Cust_Param_feed_1_adCall()[pri:0, instance:twc.Regression.TestCases.regressionTestCases@53f495f0]" name="Smoke_Test_Verifying_SlotName_Cust_Param_feed_1_adCall" duration-ms="63" started-at="2021-08-19T21:22:35Z" finished-at="2021-08-19T21:22:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Smoke_Test_Verifying_SlotName_Cust_Param_feed_1_adCall -->
+      </class> <!-- twc.Regression.TestCases.regressionTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

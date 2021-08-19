@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1629120084194" stop="1629120086788" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1629120084324" stop="1629120086763" status="passed">
+            <name>C333216_Verify_cust_param_cnd</name>
+            <title>Verify custom parameter cnd</title>
+            <steps>
+                <step start="1629120084992" stop="1629120084993" status="passed">
+                    <name>logStep[Verifing :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fhome_screen%2Fmarquee Pub Ad Call custParamcnd]</name>
+                    <title>Verifing :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fhome_screen%2Fmarquee Pub Ad Call custParamcnd</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120085244" stop="1629120085244" status="passed">
+                    <name>logStep[reading turbo call value]</name>
+                    <title>reading turbo call value</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120085568" stop="1629120085568" status="passed">
+                    <name>logStep[Turbo call value ::26]</name>
+                    <title>Turbo call value ::26</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120085569" stop="1629120085569" status="passed">
+                    <name>logStep[PubAd call value ::cld]</name>
+                    <title>PubAd call value ::cld</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120085569" stop="1629120085569" status="passed">
+                    <name>logStep[Values are matched]</name>
+                    <title>Values are matched</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120085575" stop="1629120085575" status="passed">
+                    <name>logStep[Result Pass]</name>
+                    <title>Result Pass</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120085822" stop="1629120085822" status="passed">
+                    <name>logStep[Verifing :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Ffeed%2Ffeed_1 Pub Ad Call custParamcnd]</name>
+                    <title>Verifing :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Ffeed%2Ffeed_1 Pub Ad Call custParamcnd</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086111" stop="1629120086111" status="passed">
+                    <name>logStep[reading turbo call value]</name>
+                    <title>reading turbo call value</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086212" stop="1629120086212" status="passed">
+                    <name>logStep[Turbo call value ::26]</name>
+                    <title>Turbo call value ::26</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086213" stop="1629120086213" status="passed">
+                    <name>logStep[PubAd call value ::cld]</name>
+                    <title>PubAd call value ::cld</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086213" stop="1629120086213" status="passed">
+                    <name>logStep[Values are matched]</name>
+                    <title>Values are matched</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086218" stop="1629120086218" status="passed">
+                    <name>logStep[Result Pass]</name>
+                    <title>Result Pass</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086421" stop="1629120086421" status="passed">
+                    <name>logStep[Verifing :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2Fhourly Pub Ad Call custParamcnd]</name>
+                    <title>Verifing :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2Fhourly Pub Ad Call custParamcnd</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086611" stop="1629120086611" status="passed">
+                    <name>logStep[reading turbo call value]</name>
+                    <title>reading turbo call value</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086747" stop="1629120086747" status="passed">
+                    <name>logStep[Turbo call value ::26]</name>
+                    <title>Turbo call value ::26</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086748" stop="1629120086748" status="passed">
+                    <name>logStep[PubAd call value ::cld]</name>
+                    <title>PubAd call value ::cld</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086748" stop="1629120086748" status="passed">
+                    <name>logStep[Values are matched]</name>
+                    <title>Values are matched</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086754" stop="1629120086754" status="passed">
+                    <name>logStep[Result Pass]</name>
+                    <title>Result Pass</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="twc.Regression.TestCases.regressionTestCases"/>
+                <label name="testMethod" value="C333216_Verify_cust_param_cnd"/>
+                <label name="host" value="AswinikumarsMBP.lan"/>
+                <label name="thread" value="21166@AswinikumarsMBP.lan.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1629120084324" stop="1629120086763" status="passed">
+            <name>C333216_Verify_cust_param_cnd</name>
+            <title>Verify custom parameter cnd</title>
+            <steps>
+                <step start="1629120084992" stop="1629120084993" status="passed">
+                    <name>logStep[Verifing :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fhome_screen%2Fmarquee Pub Ad Call custParamcnd]</name>
+                    <title>Verifing :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fhome_screen%2Fmarquee Pub Ad Call custParamcnd</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120085244" stop="1629120085244" status="passed">
+                    <name>logStep[reading turbo call value]</name>
+                    <title>reading turbo call value</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120085568" stop="1629120085568" status="passed">
+                    <name>logStep[Turbo call value ::26]</name>
+                    <title>Turbo call value ::26</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120085569" stop="1629120085569" status="passed">
+                    <name>logStep[PubAd call value ::cld]</name>
+                    <title>PubAd call value ::cld</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120085569" stop="1629120085569" status="passed">
+                    <name>logStep[Values are matched]</name>
+                    <title>Values are matched</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120085575" stop="1629120085575" status="passed">
+                    <name>logStep[Result Pass]</name>
+                    <title>Result Pass</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120085822" stop="1629120085822" status="passed">
+                    <name>logStep[Verifing :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Ffeed%2Ffeed_1 Pub Ad Call custParamcnd]</name>
+                    <title>Verifing :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Ffeed%2Ffeed_1 Pub Ad Call custParamcnd</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086111" stop="1629120086111" status="passed">
+                    <name>logStep[reading turbo call value]</name>
+                    <title>reading turbo call value</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086212" stop="1629120086212" status="passed">
+                    <name>logStep[Turbo call value ::26]</name>
+                    <title>Turbo call value ::26</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086213" stop="1629120086213" status="passed">
+                    <name>logStep[PubAd call value ::cld]</name>
+                    <title>PubAd call value ::cld</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086213" stop="1629120086213" status="passed">
+                    <name>logStep[Values are matched]</name>
+                    <title>Values are matched</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086218" stop="1629120086218" status="passed">
+                    <name>logStep[Result Pass]</name>
+                    <title>Result Pass</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086421" stop="1629120086421" status="passed">
+                    <name>logStep[Verifing :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2Fhourly Pub Ad Call custParamcnd]</name>
+                    <title>Verifing :iu=%2F7646%2Fapp_android_us%2Fdb_display%2Fdetails%2Fhourly Pub Ad Call custParamcnd</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086611" stop="1629120086611" status="passed">
+                    <name>logStep[reading turbo call value]</name>
+                    <title>reading turbo call value</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086747" stop="1629120086747" status="passed">
+                    <name>logStep[Turbo call value ::26]</name>
+                    <title>Turbo call value ::26</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086748" stop="1629120086748" status="passed">
+                    <name>logStep[PubAd call value ::cld]</name>
+                    <title>PubAd call value ::cld</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086748" stop="1629120086748" status="passed">
+                    <name>logStep[Values are matched]</name>
+                    <title>Values are matched</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1629120086754" stop="1629120086754" status="passed">
+                    <name>logStep[Result Pass]</name>
+                    <title>Result Pass</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="twc.Regression.TestCases.regressionTestCases"/>
+                <label name="testMethod" value="C333216_Verify_cust_param_cnd"/>
+                <label name="host" value="AswinikumarsMBP.lan"/>
+                <label name="thread" value="21166@AswinikumarsMBP.lan.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

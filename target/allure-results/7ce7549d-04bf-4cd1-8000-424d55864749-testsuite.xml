@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1628771929828" stop="1628771931219" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1628771929998" stop="1628771930799" status="passed">
+            <name>Validate_Amazon_SDK_adsdk_parameter</name>
+            <description type="text">Validating 'adsdk' parameter of Amazon aax call</description>
+            <steps>
+                <step start="1628771930024" stop="1628771930025" status="passed">
+                    <name>logStep[****** Validating Amazon SDK version i.e. 'adsdk' parameter of Amazon aax call]</name>
+                    <title>****** Validating Amazon SDK version i.e. 'adsdk' parameter of Amazon aax call</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771930063" stop="1628771930063" status="passed">
+                    <name>logStep[File Name is : SDKvalidationsRC.chlsx]</name>
+                    <title>File Name is : SDKvalidationsRC.chlsx</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771930144" stop="1628771930144" status="passed">
+                    <name>logStep[Successfully Generated XML file from Charles session file!!]</name>
+                    <title>Successfully Generated XML file from Charles session file!!</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771930657" stop="1628771930657" status="passed">
+                    <name>logStep[aax-us-east.amazon-adsystem.com  call is present]</name>
+                    <title>aax-us-east.amazon-adsystem.com  call is present</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771930662" stop="1628771930663" status="passed">
+                    <name>logStep[aax-us-east.amazon-adsystem.com/e/msdk/ads  call is present in Charles session]</name>
+                    <title>aax-us-east.amazon-adsystem.com/e/msdk/ads  call is present in Charles session</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771930782" stop="1628771930782" status="passed">
+                    <name>logStep[aax-us-east.amazon-adsystem.com  call is present]</name>
+                    <title>aax-us-east.amazon-adsystem.com  call is present</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771930797" stop="1628771930797" status="passed">
+                    <name>logStep[Custom Parameter :adsdk value: aps-android-9.1.0 is matched with the expected value aps-android-9.1.0]</name>
+                    <title>Custom Parameter :adsdk value: aps-android-9.1.0 is matched with the expected value aps-android-9.1.0</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="twc.Regression.TestCases.regressionTestCases"/>
+                <label name="testMethod" value="Validate_Amazon_SDK_adsdk_parameter"/>
+                <label name="host" value="AswinikumarsMBP.lan"/>
+                <label name="thread" value="10371@AswinikumarsMBP.lan.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1628771929998" stop="1628771930799" status="passed">
+            <name>Validate_Amazon_SDK_adsdk_parameter</name>
+            <description type="text">Validating 'adsdk' parameter of Amazon aax call</description>
+            <steps>
+                <step start="1628771930024" stop="1628771930025" status="passed">
+                    <name>logStep[****** Validating Amazon SDK version i.e. 'adsdk' parameter of Amazon aax call]</name>
+                    <title>****** Validating Amazon SDK version i.e. 'adsdk' parameter of Amazon aax call</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771930063" stop="1628771930063" status="passed">
+                    <name>logStep[File Name is : SDKvalidationsRC.chlsx]</name>
+                    <title>File Name is : SDKvalidationsRC.chlsx</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771930144" stop="1628771930144" status="passed">
+                    <name>logStep[Successfully Generated XML file from Charles session file!!]</name>
+                    <title>Successfully Generated XML file from Charles session file!!</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771930657" stop="1628771930657" status="passed">
+                    <name>logStep[aax-us-east.amazon-adsystem.com  call is present]</name>
+                    <title>aax-us-east.amazon-adsystem.com  call is present</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771930662" stop="1628771930663" status="passed">
+                    <name>logStep[aax-us-east.amazon-adsystem.com/e/msdk/ads  call is present in Charles session]</name>
+                    <title>aax-us-east.amazon-adsystem.com/e/msdk/ads  call is present in Charles session</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771930782" stop="1628771930782" status="passed">
+                    <name>logStep[aax-us-east.amazon-adsystem.com  call is present]</name>
+                    <title>aax-us-east.amazon-adsystem.com  call is present</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771930797" stop="1628771930797" status="passed">
+                    <name>logStep[Custom Parameter :adsdk value: aps-android-9.1.0 is matched with the expected value aps-android-9.1.0]</name>
+                    <title>Custom Parameter :adsdk value: aps-android-9.1.0 is matched with the expected value aps-android-9.1.0</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="twc.Regression.TestCases.regressionTestCases"/>
+                <label name="testMethod" value="Validate_Amazon_SDK_adsdk_parameter"/>
+                <label name="host" value="AswinikumarsMBP.lan"/>
+                <label name="thread" value="10371@AswinikumarsMBP.lan.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1628771930805" stop="1628771930948" status="passed">
+            <name>Validate_GMA_SDK_version</name>
+            <description type="text">Validating Google Mobile Ads SDK version of gampad call </description>
+            <steps>
+                <step start="1628771930806" stop="1628771930806" status="passed">
+                    <name>logStep[Validating Google Mobile Ads SDK Version i.e. 'js' parameter of gampad call]</name>
+                    <title>Validating Google Mobile Ads SDK Version i.e. 'js' parameter of gampad call</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771930948" stop="1628771930948" status="passed">
+                    <name>logStep[Custom Parameter :js value: afma-sdk-a-v212104999.211512000.1 is matched with the expected value afma-sdk-a-v212...]</name>
+                    <title>Custom Parameter :js value: afma-sdk-a-v212104999.211512000.1 is matched with the expected value afma-sdk-a-v212104999.2...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="twc.Regression.TestCases.regressionTestCases"/>
+                <label name="testMethod" value="Validate_GMA_SDK_version"/>
+                <label name="host" value="AswinikumarsMBP.lan"/>
+                <label name="thread" value="10371@AswinikumarsMBP.lan.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1628771930805" stop="1628771930948" status="passed">
+            <name>Validate_GMA_SDK_version</name>
+            <description type="text">Validating Google Mobile Ads SDK version of gampad call </description>
+            <steps>
+                <step start="1628771930806" stop="1628771930806" status="passed">
+                    <name>logStep[Validating Google Mobile Ads SDK Version i.e. 'js' parameter of gampad call]</name>
+                    <title>Validating Google Mobile Ads SDK Version i.e. 'js' parameter of gampad call</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771930948" stop="1628771930948" status="passed">
+                    <name>logStep[Custom Parameter :js value: afma-sdk-a-v212104999.211512000.1 is matched with the expected value afma-sdk-a-v212...]</name>
+                    <title>Custom Parameter :js value: afma-sdk-a-v212104999.211512000.1 is matched with the expected value afma-sdk-a-v212104999.2...</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="twc.Regression.TestCases.regressionTestCases"/>
+                <label name="testMethod" value="Validate_GMA_SDK_version"/>
+                <label name="host" value="AswinikumarsMBP.lan"/>
+                <label name="thread" value="10371@AswinikumarsMBP.lan.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1628771930952" stop="1628771931198" status="passed">
+            <name>Validate_Criteo_SDK_config_app_Call_sdkVersion_parameter</name>
+            <description type="text">Validating 'sdkVersion' parameter of Criteo SDK config app call </description>
+            <steps>
+                <step start="1628771930953" stop="1628771930953" status="passed">
+                    <name>logStep[****** Validating 'sdkVersion' parameter of Criteo SDK config app call]</name>
+                    <title>****** Validating 'sdkVersion' parameter of Criteo SDK config app call</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771931109" stop="1628771931109" status="passed">
+                    <name>logStep[bidder.criteo.com  call is present]</name>
+                    <title>bidder.criteo.com  call is present</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771931112" stop="1628771931112" status="passed">
+                    <name>logStep[bidder.criteo.com/config/app call is present in Charles session]</name>
+                    <title>bidder.criteo.com/config/app call is present in Charles session</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771931195" stop="1628771931195" status="passed">
+                    <name>logStep[bidder.criteo.com  call is present]</name>
+                    <title>bidder.criteo.com  call is present</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771931198" stop="1628771931198" status="passed">
+                    <name>logStep[Custom Parameter :sdkVersion value: 4.4.0 is matched with the expected value 4.4.0]</name>
+                    <title>Custom Parameter :sdkVersion value: 4.4.0 is matched with the expected value 4.4.0</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="twc.Regression.TestCases.regressionTestCases"/>
+                <label name="testMethod" value="Validate_Criteo_SDK_config_app_Call_sdkVersion_parameter"/>
+                <label name="host" value="AswinikumarsMBP.lan"/>
+                <label name="thread" value="10371@AswinikumarsMBP.lan.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1628771930952" stop="1628771931198" status="passed">
+            <name>Validate_Criteo_SDK_config_app_Call_sdkVersion_parameter</name>
+            <description type="text">Validating 'sdkVersion' parameter of Criteo SDK config app call </description>
+            <steps>
+                <step start="1628771930953" stop="1628771930953" status="passed">
+                    <name>logStep[****** Validating 'sdkVersion' parameter of Criteo SDK config app call]</name>
+                    <title>****** Validating 'sdkVersion' parameter of Criteo SDK config app call</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771931109" stop="1628771931109" status="passed">
+                    <name>logStep[bidder.criteo.com  call is present]</name>
+                    <title>bidder.criteo.com  call is present</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771931112" stop="1628771931112" status="passed">
+                    <name>logStep[bidder.criteo.com/config/app call is present in Charles session]</name>
+                    <title>bidder.criteo.com/config/app call is present in Charles session</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771931195" stop="1628771931195" status="passed">
+                    <name>logStep[bidder.criteo.com  call is present]</name>
+                    <title>bidder.criteo.com  call is present</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1628771931198" stop="1628771931198" status="passed">
+                    <name>logStep[Custom Parameter :sdkVersion value: 4.4.0 is matched with the expected value 4.4.0]</name>
+                    <title>Custom Parameter :sdkVersion value: 4.4.0 is matched with the expected value 4.4.0</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="twc.Regression.TestCases.regressionTestCases"/>
+                <label name="testMethod" value="Validate_Criteo_SDK_config_app_Call_sdkVersion_parameter"/>
+                <label name="host" value="AswinikumarsMBP.lan"/>
+                <label name="thread" value="10371@AswinikumarsMBP.lan.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
